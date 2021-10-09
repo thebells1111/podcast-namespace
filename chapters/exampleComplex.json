@@ -45,6 +45,17 @@
       }
     },
     {
+      "startTime": 5120,
+      "title": "Talkin' about a revolution",
+      "img": "https://example.com/images/recordplayer.jpg",
+      "clip": {
+        "url": "https://example.com/audio/podcast1234.mp3",
+        "startTime": 7842.24,
+        "stopTime": 9133.44,
+        "title": "John Doe talks about record players"
+      }
+    },
+    {
       "startTime": 5510,
       "title": "The Big Players"
     },

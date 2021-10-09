@@ -108,7 +108,6 @@ There are three required attributes:
 - stopTime: (required - float) The stopping time of the clip as a number of seconds
 
 Regarding the startTime and stopTime, the number should be a floating-point value representing where to start and stop the audio clip. For example `startTime: 62.5, stopTime 124.22` would start the clip at the 1 min, 2 sec, 500 msec point and stop the clip at the 2 min, 4 sec, 220 msec point of audio file.
-
 #### Optional Attributes:
 
 - title: (optional - string) A title to show with the clip. Examples include a clip description, podcast name, episode name, etc.
